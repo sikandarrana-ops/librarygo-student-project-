@@ -1,3 +1,10 @@
+# React Native build artifacts
+/android/app/build/
+/ios/build/
+/ios/Pods/
+*.keystore
+*.gradle
+
 # Logs
 logs
 *.log
